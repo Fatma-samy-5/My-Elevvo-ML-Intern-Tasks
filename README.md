@@ -44,4 +44,5 @@ Here are the main tasks I completed during the internship:
 - **Version Control**: Git & GitHub
 
 **Author:** [Fatma Samy Ahmed]
+
 **Internship Provider:** Elevvo
