@@ -7,15 +7,15 @@ A machine learning project to predict future sales using historical data.
 ## 📊 Project Results
 
 ### 1️⃣ Data Visualization
-![Data Visualization](images/1-data-viz.png)
+![Data Visualization](images/data-viz.png)
 *Analysis of sales patterns and trends over time*
 
 ### 2️⃣ Model Performance
-![Model Evaluation](images/2-model-eval.png)
+![Model Evaluation](images/model-eval.png)
 *Comparison of different machine learning models*
 
 ### 3️⃣ Future Predictions
-![Future Sales](images/3-future-sales.png)
+![Future Sales](images/future-sales.png)
 *Forecasted sales for upcoming periods*
 
 ---
