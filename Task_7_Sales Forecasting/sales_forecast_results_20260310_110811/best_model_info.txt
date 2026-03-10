@@ -1,0 +1,30 @@
+==================================================
+SALES FORECASTING RESULTS
+==================================================
+
+Date: 2026-03-10 11:08:11.378506
+Best Model: Linear Regression
+
+Model Performance:
+------------------------------
+   Train RMSE: 0.0000
+   Test RMSE: 0.0000
+   Train MAE: 0.0000
+   Test MAE: 0.0000
+   Train R2: 1.0000
+   Test R2: 0.0000
+
+Feature Information:
+------------------------------
+Number of features: 20
+Top 10 features:
+   1. Store
+   2. Dept
+   3. IsHoliday
+   4. Year
+   5. Month
+   6. Week
+   7. Day
+   8. DayOfWeek
+   9. Quarter
+   10. IsWeekend
